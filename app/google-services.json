@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256787429357",
+    "project_id": "bagpack-cb906",
+    "storage_bucket": "bagpack-cb906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256787429357:android:61c4f111df52b00453d9e4",
+        "android_client_info": {
+          "package_name": "com.example.bagpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256787429357-vrb6mat9vhh052lco2bsgkbocu502mge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFH95MyHJ8TZay7EzewgZDrYnPkpNHhcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256787429357-vrb6mat9vhh052lco2bsgkbocu502mge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
